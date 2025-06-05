@@ -1,7 +1,7 @@
 name: Build a WAR file using Mavenn
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 jobs:
   build:
     runs-on: self-hosted
