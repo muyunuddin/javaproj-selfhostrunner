@@ -1,4 +1,4 @@
-name: Build a WAR file using Mavenn
+name: Build a WAR file using Maven
 on:
   push:
     branches: [ "master" ]
